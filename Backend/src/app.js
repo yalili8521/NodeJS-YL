@@ -9,6 +9,9 @@ const routes = require('./routes');
 
 const app = express();
 
+// Trust Vercel's proxy (required for express-rate-limit)
+app.set('trust proxy', 1);
+
 // Security middleware
 app.use(helmet());
 
