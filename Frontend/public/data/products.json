@@ -1,0 +1,86 @@
+{
+  "topProductsBySales": [
+    {
+      "id": 1,
+      "name": "Nike Air Max",
+      "category": "Footwear",
+      "sales": 12500,
+      "revenue": "$125,000",
+      "image": "/images/products/nike.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14 Pro",
+      "category": "Electronics",
+      "sales": 8900,
+      "revenue": "$890,000",
+      "image": "/images/products/iphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "category": "Electronics",
+      "sales": 6700,
+      "revenue": "$1,340,000",
+      "image": "/images/products/macbook.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S23",
+      "category": "Electronics",
+      "sales": 5400,
+      "revenue": "$540,000",
+      "image": "/images/products/samsung.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Adidas Ultraboost",
+      "category": "Footwear",
+      "sales": 4200,
+      "revenue": "$84,000",
+      "image": "/images/products/adidas.jpg"
+    }
+  ],
+  "topProductsByVolume": [
+    {
+      "id": 1,
+      "name": "Basic T-Shirt",
+      "category": "Clothing",
+      "quantity": 25000,
+      "revenue": "$250,000",
+      "image": "/images/products/tshirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Water Bottle",
+      "category": "Accessories",
+      "quantity": 18500,
+      "revenue": "$92,500",
+      "image": "/images/products/bottle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phone Case",
+      "category": "Accessories",
+      "quantity": 16700,
+      "revenue": "$83,500",
+      "image": "/images/products/case.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Notebook",
+      "category": "Stationery",
+      "quantity": 14200,
+      "revenue": "$71,000",
+      "image": "/images/products/notebook.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pen Set",
+      "category": "Stationery",
+      "quantity": 12800,
+      "revenue": "$64,000",
+      "image": "/images/products/pen.jpg"
+    }
+  ]
+}

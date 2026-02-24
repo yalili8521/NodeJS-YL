@@ -1,0 +1,82 @@
+{
+  "balance": [
+    { "month": "Jan", "balance": 280 },
+    { "month": "Feb", "balance": 200 },
+    { "month": "Mar", "balance": 220 },
+    { "month": "Apr", "balance": 180 },
+    { "month": "May", "balance": 270 },
+    { "month": "Jun", "balance": 250 },
+    { "month": "Jul", "balance": 70 },
+    { "month": "Aug", "balance": 90 },
+    { "month": "Sep", "balance": 200 },
+    { "month": "Oct", "balance": 150 },
+    { "month": "Nov", "balance": 160 },
+    { "month": "Dec", "balance": 100 }
+  ],
+  "websiteData": [
+    { "name": "Jan", "visits": 20, "clicks": 60, "sales": 100 },
+    { "name": "Feb", "visits": 40, "clicks": 80, "sales": 120 },
+    { "name": "Mar", "visits": 30, "clicks": 70, "sales": 90 },
+    { "name": "Apr", "visits": 70, "clicks": 110, "sales": 170 },
+    { "name": "May", "visits": 40, "clicks": 80, "sales": 130 },
+    { "name": "Jun", "visits": 60, "clicks": 100, "sales": 160 },
+    { "name": "Jul", "visits": 50, "clicks": 90, "sales": 140 },
+    { "name": "Aug", "visits": 140, "clicks": 180, "sales": 240 },
+    { "name": "Sep", "visits": 120, "clicks": 160, "sales": 220 }
+  ],
+  "socialRevenue": [
+    { "month": "Jan", "revenue": 90 },
+    { "month": "Feb", "revenue": 120 },
+    { "month": "Mar", "revenue": 55 },
+    { "month": "Apr", "revenue": 100 },
+    { "month": "May", "revenue": 80 },
+    { "month": "Jun", "revenue": 125 },
+    { "month": "Jul", "revenue": 175 },
+    { "month": "Aug", "revenue": 70 },
+    { "month": "Sep", "revenue": 88 },
+    { "month": "Oct", "revenue": 140 },
+    { "month": "Nov", "revenue": 95 },
+    { "month": "Dec", "revenue": 115 }
+  ],
+  "mobileComparison": [
+    { "name": "Apple", "value": 30, "color": "#826AF9" },
+    { "name": "Samsung", "value": 25, "color": "#FFB400" },
+    { "name": "Huawei", "value": 20, "color": "#FF4560" },
+    { "name": "Oppo", "value": 15, "color": "#00E396" }
+  ],
+  "expenseRatio": [
+    { "name": "Operational", "value": 30, "color": "#00CFE8" },
+    { "name": "Networking", "value": 25, "color": "#FFB400" },
+    { "name": "Hiring", "value": 20, "color": "#826AF9" },
+    { "name": "R&D", "value": 25, "color": "#28C76F" }
+  ],
+  "newTechData": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    "datasets": [
+      {
+        "label": "2023",
+        "data": [10, 20, 15, 25, 22, 30],
+        "borderColor": "#826AF9",
+        "backgroundColor": "transparent",
+        "tension": 0.4
+      },
+      {
+        "label": "2024",
+        "data": [5, 15, 20, 18, 28, 25],
+        "borderColor": "#FFB400",
+        "backgroundColor": "transparent",
+        "tension": 0.4
+      }
+    ]
+  },
+  "latestStats": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul"],
+    "datasets": [
+      {
+        "label": "Sales",
+        "data": [40, 55, 45, 60, 50, 65, 55],
+        "backgroundColor": "#826AF9"
+      }
+    ]
+  }
+}

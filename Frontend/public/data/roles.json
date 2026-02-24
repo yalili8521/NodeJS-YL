@@ -1,0 +1,52 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "assignedTo": [
+        { "name": "John Doe", "color": "#826AF9" },
+        { "name": "Jane Smith", "color": "#FFB400" },
+        { "name": "Bob Johnson", "color": "#00CFE8" }
+      ],
+      "createdDate": "Apr 18, 2021, 10:30 AM"
+    },
+    {
+      "id": 2,
+      "name": "Manager",
+      "assignedTo": [
+        { "name": "Alice Brown", "color": "#28C76F" },
+        { "name": "Charlie Davis", "color": "#FF9F43" }
+      ],
+      "createdDate": "Apr 20, 2021, 2:15 PM"
+    },
+    {
+      "id": 3,
+      "name": "Users",
+      "assignedTo": [
+        { "name": "David Wilson", "color": "#826AF9" },
+        { "name": "Eva Martinez", "color": "#FFB400" },
+        { "name": "Frank Anderson", "color": "#00CFE8" },
+        { "name": "Grace Taylor", "color": "#28C76F" }
+      ],
+      "createdDate": "Apr 25, 2021, 9:00 AM"
+    },
+    {
+      "id": 4,
+      "name": "Support",
+      "assignedTo": [
+        { "name": "Henry Thomas", "color": "#FF9F43" },
+        { "name": "Iris Jackson", "color": "#826AF9" },
+        { "name": "Jack White", "color": "#FFB400" }
+      ],
+      "createdDate": "May 2, 2021, 11:45 AM"
+    },
+    {
+      "id": 5,
+      "name": "Restricted User",
+      "assignedTo": [
+        { "name": "Kate Harris", "color": "#00CFE8" }
+      ],
+      "createdDate": "May 5, 2021, 3:30 PM"
+    }
+  ]
+}
